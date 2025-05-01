@@ -1,4 +1,4 @@
-# DevOps Project 2: Containerizing a Flask App with Docker
+# Containerizing a Flask App with Docker
 
 ## Overview
 
